@@ -3,6 +3,8 @@
 Ecommerce website, Applied offer on products, Discounted price visible inside the basket.
 <img width="1726" alt="image" src="https://github.com/chetanpl/Prismic_Task/assets/16497813/9aff0f13-f15d-47cf-a533-b8f4a6192fd7">
 <img width="1728" alt="image" src="https://github.com/chetanpl/Prismic_Task/assets/16497813/3ed5eb73-36bc-49ad-ba5d-61b777c867d9">
+Applied best coding style 
+<img width="1724" alt="image" src="https://github.com/chetanpl/Prismic_Task/assets/16497813/7bb34675-5eba-49d5-a9d9-f772b5aa87b5">
 
 ## Available Scripts
 
